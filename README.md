@@ -1,4 +1,4 @@
-# obj → Hero's Scarf
+# Emma's obj → Hero's Scarf
 
 # **Artefact**
 
