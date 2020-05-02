@@ -4,11 +4,10 @@
 
 Artist *Mieke Gerritzen* designed this textile, called Hero's Scarf, with a pattern created by the repetition of images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice.
 
-## **Metadata**
-
-[Untitled](https://www.notion.so/199a9dd8e34d4b3894970bcb61c0fa30)
-
-![obj%20Hero%20s%20Scarf/teyoshscarf.jpg](obj%20Hero%20s%20Scarf/teyoshscarf.jpg)
+ **Metadata**
+ 
+![](README-images/Screenshot%202020-05-02%20at%2020.00.32.png)
+![](README-images/teyoshscarf.jpg)
 
 This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
 
