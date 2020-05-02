@@ -114,17 +114,12 @@ Mieke calls them "Heroes". What is a hero? It is very subjective: for some peopl
 ...which opened up doors to different approaches. 
 
 ![](README-images/Screenshot_2020-03-09_at_13.00.19.png)
-
 ![](RREADME-images/Screenshot_2020-03-09_at_13.00.06.png)
-
-> Touched with a hammer or a tunin fork, I cook every chant in my pot. It's the real thing.
-
-> Many versions, are different perspectives, of one movable event.
-
 ![](README-images/Screenshot_2020-03-09_at_13.01.49.png)
 
+> Touched with a hammer or a tunin fork, I cook every chant in my pot. It's the real thing.
+> Many versions, are different perspectives, of one movable event.
 > *Multiplications of an Icon, far from diluting its cultic power, rather increases its fame and each image - however imperfect -conventionally partakes of some portion of the properties of the pre-cursor.*
-
 > Every lie creates a parallel world, the world in which is true.
 
 **>> *KEYWORDS FOR POTENTIAL APPROACHES FOR TRANSCODING (INTERPRETATIVE) <<*
