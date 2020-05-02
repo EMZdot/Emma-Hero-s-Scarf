@@ -4,8 +4,8 @@
 
 Artist *Mieke Gerritzen* designed this textile, called Hero's Scarf, with a pattern created by the repetition of images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice.
 
- **Metadata**
- 
+## **Metadata**
+**Hero's Scarf**
 ![](README-images/Screenshot%202020-05-02%20at%2020.00.32.png)
 ![](README-images/teyoshscarf.jpg)
 
@@ -93,7 +93,7 @@ Mieke calls them "Heroes". What is a hero? It is very subjective: for some peopl
 
 ## Icons: in between **Original and Copy**
 
-![obj%20Hero%20s%20Scarf/CHSDM-241582_02-000001.jpg](obj%20Hero%20s%20Scarf/CHSDM-241582_02-000001.jpg)
+![](README-images/CHSDM-241582_02-000001.jpg)
 
 *Example of Mieke's Design →* 
 
@@ -105,7 +105,7 @@ Mieke calls them "Heroes". What is a hero? It is very subjective: for some peopl
 
 → Came across this video called *Versions* by Oliver Laric...
 
-![obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_12.49.56.png](obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_12.49.56.png)
+![](README-images/Screenshot_2020-03-09_at_12.49.56.png)
 
 →*Link:*  [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
 
@@ -113,15 +113,15 @@ Mieke calls them "Heroes". What is a hero? It is very subjective: for some peopl
 
 ...which opened up doors to different approaches. 
 
-![obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_13.00.19.png](obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_13.00.19.png)
+![](README-images/Screenshot_2020-03-09_at_13.00.19.png)
 
-![obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_13.00.06.png](obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_13.00.06.png)
+![](RREADME-images/Screenshot_2020-03-09_at_13.00.06.png)
 
 > Touched with a hammer or a tunin fork, I cook every chant in my pot. It's the real thing.
 
 > Many versions, are different perspectives, of one movable event.
 
-![obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_13.01.49.png](obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_13.01.49.png)
+![](README-images/Screenshot_2020-03-09_at_13.01.49.png)
 
 > *Multiplications of an Icon, far from diluting its cultic power, rather increases its fame and each image - however imperfect -conventionally partakes of some portion of the properties of the pre-cursor.*
 
@@ -154,7 +154,7 @@ What could they turn into?***
 - compare a person's facial features to the effectivness of artifact's characteristics;
 - related to media and reproduction: R*epetition and multiplication consolidates.*
 
-    ![obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_14.07.07.png](obj%20Hero%20s%20Scarf/Screenshot_2020-03-09_at_14.07.07.png)
+    ![](README-images/Screenshot_2020-03-09_at_14.07.07.png)
 
     → CATEGORIZATION OF HEROES
 
@@ -162,7 +162,7 @@ What could they turn into?***
 
 ### **Research Sub-sub-heading (H3)**
 
-![obj%20Hero%20s%20Scarf/physiognomy1-articleLarge.jpg](obj%20Hero%20s%20Scarf/physiognomy1-articleLarge.jpg)
+![](README-images/physiognomy1-articleLarge.jpg)
 
 **→ Fame in relation to the face = How does recognition works?** 
 
@@ -170,9 +170,9 @@ It is helpful in approaching different methods of transcoding when it comes to i
 
 → How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
 
-![obj%20Hero%20s%20Scarf/istockphoto-592688966-1024x1024.jpg](obj%20Hero%20s%20Scarf/istockphoto-592688966-1024x1024.jpg)
+![](README-images/istockphoto-592688966-1024x1024.jpg)
 
-![obj%20Hero%20s%20Scarf/conjunto-de-los-animales-mitologicos-mermaid-minotauro-unicornio-dragon-chino-cerberus-esfinge-arpia-griffin-mitico-basilisco-roc-mujer-pajaro-las-criaturas-griegas-grabados-antiguos-dibujados-a-mano-vintage-sketch-pxn83f.jpg](obj%20Hero%20s%20Scarf/conjunto-de-los-animales-mitologicos-mermaid-minotauro-unicornio-dragon-chino-cerberus-esfinge-arpia-griffin-mitico-basilisco-roc-mujer-pajaro-las-criaturas-griegas-grabados-antiguos-dibujados-a-mano-vintage-sketch-pxn83f.jpg)
+![](README-images/conjunto-de-los-animales-mitologicos-mermaid-minotauro-unicornio-dragon-chino-cerberus-esfinge-arpia-griffin-mitico-basilisco-roc-mujer-pajaro-las-criaturas-griegas-grabados-antiguos-dibujados-a-mano-vintage-sketch-pxn83f.jpg)
 
 Mythology/Icons: Details/features that creates immediate recognition and when repeated/multiplied creates resistence in time. 
 
