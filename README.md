@@ -7,6 +7,11 @@ Artist *Mieke Gerritzen* designed this textile, called Hero's Scarf, with a patt
 ## **Metadata**
 **Hero's Scarf**
 ![](README-images/Screenshot%202020-05-02%20at%2020.00.32.png)
+
+```
+<width="50%">
+
+```
 ![](README-images/teyoshscarf.jpg)
 
 This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
@@ -182,11 +187,9 @@ Please include a general description of the role of transcoding in your project.
 
 ## **Transcoding No. 1**
 
-### **Description**
+### **Updated Online Scarf**
 
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+I am recreating the scarf in a virtual/digital version, using a scraping tool to keep the pictures of the Icons updated (where possible) according to the current time. Some icons are fictional, archetypal or even object, so there will evolve together with the audience's posts. In the case of still-alive stars and icons, the pictures will 'grow' together with their originals. 
 
 ### **Methods**
 
