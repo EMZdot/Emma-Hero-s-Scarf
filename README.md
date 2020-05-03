@@ -7,11 +7,6 @@ Artist *Mieke Gerritzen* designed this textile, called Hero's Scarf, with a patt
 ## **Metadata**
 **Hero's Scarf**
 ![](README-images/Screenshot%202020-05-02%20at%2020.00.32.png)
-
-```
-<width="50%">
-
-```
 ![](README-images/teyoshscarf.jpg)
 
 This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
@@ -156,9 +151,6 @@ What could they turn into?***
 - links to longevity of historical artifacts;
 - compare a person's facial features to the effectivness of artifact's characteristics;
 - related to media and reproduction: R*epetition and multiplication consolidates.*
-
-    ![](README-images/Screenshot_2020-03-09_at_14.07.07.png)
-
     → CATEGORIZATION OF HEROES
 
     Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.
@@ -208,7 +200,7 @@ Remember to include the url link to jump to the full media, of course!
 
 ### **Tools**
 
-Mention the tools that you used or made (if and when relevant).
+Html, ...
 
 ### **Results**
 
