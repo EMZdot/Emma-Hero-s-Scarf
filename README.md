@@ -164,9 +164,6 @@ What could they turn into?***
 It is helpful in approaching different methods of transcoding when it comes to interpretation and media. 
 
 → How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
-
-![](README-images/istockphoto-592688966-1024x1024.jpg)
-
 ![](README-images/conjunto-de-los-animales-mitologicos-mermaid-minotauro-unicornio-dragon-chino-cerberus-esfinge-arpia-griffin-mitico-basilisco-roc-mujer-pajaro-las-criaturas-griegas-grabados-antiguos-dibujados-a-mano-vintage-sketch-pxn83f.jpg)
 
 Mythology/Icons: Details/features that creates immediate recognition and when repeated/multiplied creates resistence in time. 
