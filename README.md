@@ -155,7 +155,7 @@ What could they turn into?***
 
     Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.
 
-### **Research Sub-sub-heading (H3)**
+### **Distinctive features and Facial Recognition**
 
 ![](README-images/physiognomy1-articleLarge.jpg)
 
