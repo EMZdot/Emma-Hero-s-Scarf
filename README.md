@@ -189,14 +189,12 @@ I am recreating the scarf in a virtual/digital version, using a scraping tool to
 
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.
 
-With some HTML tags you can do simple styling in markdown, for example:
 
-```
-<width="50%">
+![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.22.39.png)
 
-```
+![](ransc.1%20Website/Screenshot%202020-05-02%20at%2019.23.07.png)
 
-[https://camo.githubusercontent.com/5c9cc2a6651a6a974d16632e91a3f5cb86326d35/68747470733a2f2f6a2e676966732e636f6d2f524f4a72337a2e676966](https://camo.githubusercontent.com/5c9cc2a6651a6a974d16632e91a3f5cb86326d35/68747470733a2f2f6a2e676966732e636f6d2f524f4a72337a2e676966)
+![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png)
 
 Remember to include the url link to jump to the full media, of course!
 
