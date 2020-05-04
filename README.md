@@ -5,10 +5,12 @@
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Mieke and Stardom](#Mieke-and-Stardom)
+    1. [Between Original and Copy](#Between-Original-and-Copy)
+    2. [Distinctive Features and Facial Recognition](#Distinctive-Features-and-Facial-Recognition)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tools](#Transcoding-tools)
-    3. [Transcoding No. 2](#Transcoding-no-2)
+    2. [Transcoding No. 2](#Transcoding-no-2)
+    3. [Transcoding Tools](#Transcoding-tools)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -96,7 +98,7 @@ The point is that it is the public that decides; when it comes to straight forwa
 → Narratives, rituals...*
 *→ Quiz, who is your hero? (given hero like a token)*
 
-## Icons: in between **Original and Copy**
+## Between **Original and Copy**
 
 [<img src="README-images/CHSDM-241582_02-000001.jpg" width="50%">](#)
 
