@@ -6,7 +6,7 @@ Artist *Mieke Gerritzen* designed this textile, called Hero's Scarf, with a patt
 
 ## **Metadata**
 **Hero's Scarf**
-![](README-images/Screenshot%202020-05-02%20at%2020.00.32.png)
+![](README-images/metadata.png)
 ![](README-images/teyoshscarf.jpg)
 
 This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
