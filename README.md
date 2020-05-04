@@ -1,7 +1,20 @@
 [<img src="README-images/cover.jpeg" width="100%">](#)
 # Diagnostics of an Idol
 
-# **Artefact: 'Hero's Scarf'**
+### Table of Contents
+1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
+2. [Research](#Research-h1)
+3. [Transcoding](#Transcoding)
+    1. [Transcoding No. 1](#Transcoding-no-1)
+    2. [Transcoding Tools](#Transcoding-tools)
+    3. [Transcoding No. 2](#Transcoding-no-2)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography) 
+
+# **Artefact**
 
 Artist *Mieke Gerritzen* designed this textile piece, called Hero's Scarf, with a pattern created by the repetition of images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice.
 
