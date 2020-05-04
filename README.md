@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Mieke and Stardom](#Mieke-and-Stardom-h1)
+2. [Mieke and Stardom](#Mieke-and-Stardom)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tools](#Transcoding-tools)
