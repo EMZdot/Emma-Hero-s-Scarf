@@ -1,5 +1,5 @@
 [<img src="README-images/cover.jpeg" width="100%">](#)
-# Diagnostics of an Idol
+# *Diagnostics of an Idol*
 
 ### Table of Contents
 1. [Artefact](#Artefact)
@@ -20,29 +20,28 @@ Artist *Mieke Gerritzen* designed this textile piece, called Hero's Scarf, with 
 
 ## **Metadata**
 **Hero's Scarf**
-![](README-images/metadata.png)
-![](README-images/teyoshscarf.jpg)
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG BG P1/713](https://search.iisg.amsterdam/Record/1268178)
+| **Physical Description** | Silk Scarf 
+| **Type** | Object
+| **Medium** | Textile
+| **Materials** | Fabric/Silk
+| **Date** | 2008
+|![](README-images/teyoshscarf.jpg)| This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
 
-This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
-
-# **Research on Mieke and Stardom**
+# **Mieke and Stardom**
 
 Mieke Gerritzen designed a scarf with the images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice. This scarf was taken from the range on offer in the museum shop of the Stedelijk Museum in Amsterdam because visitors were offended by the presence of mass murderers on the scarf. Mieke Gerritzen discusses the position of 'controversial art' in a museum (shop). Apparently a museum shop is not a real part of the museum but a purely commercial institution. After a few days the scarf was offered for sale again.
-
 Her work always revolves around exploring the relationship between images and various aspects of contemporary life. Mieke’s work is always thought-provoking and critical towards the way we devour images that are served to us every day of our lives. She often points out the paradox of the abundance of visual material on the one hand, and our illiteracy when it comes to really understanding what we see on the other hand.
-
 > [...] "Yet the most characteristic quality of this new social development may not be the number of images that confronts us but rather our deep need to visualise everything we deem important. We do this en masse, even though most of us aren’t trained to do so."
 
 ***~~>> ICONOPHILIA/ICONOMANIA AND ICONOCLASM >>~~***
 
-**This is the paradox of iconoclasm: it draws us to the very thing it would destroy, inscribing a story and creating an object that is, in certain respects, richer and more powerful than before.** The toppled monument and the defaced statue strike us with greater force than their integral counterparts, becoming potential sites of reflection but also of emotional response.
-
+**This is the paradox of iconoclasm: it draws us to the very thing it would destroy, inscribing a story and creating an object that is, in certain respects, richer and more powerful than before.** <br> The toppled monument and the defaced statue strike us with greater force than their integral counterparts, becoming potential sites of reflection but also of emotional response.
 There can be so much connected to this topic: the public perception of a "God", the maniac obsession of celebrities, that become icons (in a capitalistic society), the destruction of global heritage by an elite, the manipulation of information throughout time: the disappearing of some and the transformation of others.
-
 Sacred damaged images acquire more symbolical value after the iconoclast intervention; other 'icons' simply disappear. 
-
 The personal subjective perception of 'icons'? How do people see people and why? 
-
 Think of this Heroes list's meaning in society, what is the response and what is the interpretation I want to give to it? Can I create my own Heroes' list? Or a list that would function in a utopian parallel universe?
 
 *→ Can there be a shift in the meaning and reception of it? 
@@ -54,30 +53,22 @@ Think of this Heroes list's meaning in society, what is the response and what is
 ***~~>> STARDOM - HOLLYWOOD'S STARS <<~~***
 
 Unquestionable role/life models of who we accept everything and even envy them → 
-This is cause of the blindness of the majority of humanity
-
+This is cause of the blindness of the majority of humanity.
 In the 50's and 60's Stardom was blooming! Mostly because of Cinema Stars (also in Italy).
 These people's personalities and lifestyles started to get all over tv and more and more visible. 
 They were becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good but mostly bad) were so influential on average people that within no time they started to make more damage than ever. 
-Stars started to wear furs and there started the boom of Fur Companies (which disintegrated the ethic principles of most people).
+Stars started to wear furs and there started the boom of Fur Companies (which disintegrated the ethic principles of most people). 
 Divorces became almost a habit and on a daily basis and easier for people to take that decision; devaluating love and respect.
 Cigarettes were also a very "sexy" thing in movies, all the actors were smoking and this gave a boom to the tobacco industry: the number of smokers increased but also the healty issues that are a consequence;
 Even Reality Shows, with their screaming and free violence (both phisical and psychological) created a layer of apathy and detachment and these ways of acting became ways of being, bringing violence up to a semi-normal level.
 If One takes a VIP or star as a role/life model, copying everything they do and say, One loses the opportunity to discover and develop Oneself. One becomes a "stain" with no personality, losing connection with their own reality. One becomes a carbon copy of another. Using the single star as model, many become carbon copies. 
-
-→ The majority of humanity grows in groups and gets labled for having very similar traits, interests, manners and habits. 
-
+The majority of humanity grows in groups and gets labled for having very similar traits, interests, manners and habits. 
 One major issues in idolizing these people is not really their habits or fashion: they all have one thing in common >> loads of money. 
 The facts that the majority of Icons and Idols are all extremely rich puts a stress of the economical factor, making people think that money is the only thing that counts. Therefore money become a goal or purpose in someone's life, money becomes their drive, instead of other much more significant values. Money is a very shallow reason to do something or base something upon; and totally irrelevant when it comes to personal discovery or growth. 
 By looking and copying there cannot be any personal and spiritual growth or development.
 
-Small example in contemporary Society:
-→ Icon = rapper = music video = big ass bitches ⇒ this creates a beauty standard and makes girls not accept themselves, it creates insecurities and it loads the surgical Industry. 
-
 → *But are all Icons bad?* 
-The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. 
-
-Mieke calls them "Heroes". What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. What if heroes do not exist? 
+The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. What if heroes do not exist? 
 
 **~~>> QUESTIONS AND REFLECTIONS <<~~**
 
@@ -107,7 +98,7 @@ Mieke calls them "Heroes". What is a hero? It is very subjective: for some peopl
 
 ## Icons: in between **Original and Copy**
 
-![](README-images/CHSDM-241582_02-000001.jpg)
+[<img src="README-images/CHSDM-241582_02-000001.jpg" width="50%">](#)
 
 *Example of Mieke's Design →* 
 
