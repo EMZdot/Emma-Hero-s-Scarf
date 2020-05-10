@@ -1,12 +1,10 @@
-[<img src="README-images/cover.jpeg" width="100%">](#)
-# *Diagnostics of an Idol*
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/cover.jpeg" width="100%">](#)
+# **Diagnostics of an Idol**
 
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Mieke and Stardom](#Mieke-and-Stardom)
-    1. [Between Original and Copy](#Between-Original-and-Copy)
-    2. [Distinctive Features and Facial Recognition](#Distinctive-Features-and-Facial-Recognition)
+2. [Research](#Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding No. 2](#Transcoding-no-2)
@@ -30,9 +28,11 @@ Artist *Mieke Gerritzen* designed this textile piece, called Hero's Scarf, with 
 | **Medium** | Textile
 | **Materials** | Fabric/Silk
 | **Date** | 2008
-|![](README-images/teyoshscarf.jpg)| This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
+|![](https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/teyoshscarf.jpg)| This silk scarf is 40x200 cm and fully printed with a colorful pattern created by the repetition of squared images (placed in a dense squared grid) of modern icons of public figures (factual and fictional) such as Madonna, Mickey Mouse, Jesus, Hitler, a burqua and Ilona Staller. 
 
-# **Mieke and Stardom**
+# **Research**
+
+## *Mieke's Spectacle*
 
 Mieke Gerritzen designed a scarf with the images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice. This scarf was taken from the range on offer in the museum shop of the Stedelijk Museum in Amsterdam because visitors were offended by the presence of mass murderers on the scarf. Mieke Gerritzen discusses the position of 'controversial art' in a museum (shop). Apparently a museum shop is not a real part of the museum but a purely commercial institution. After a few days the scarf was offered for sale again.
 Her work always revolves around exploring the relationship between images and various aspects of contemporary life. Mieke’s work is always thought-provoking and critical towards the way we devour images that are served to us every day of our lives. She often points out the paradox of the abundance of visual material on the one hand, and our illiteracy when it comes to really understanding what we see on the other hand.
