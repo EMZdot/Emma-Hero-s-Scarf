@@ -103,14 +103,13 @@ I came across this video called *Versions* by Oliver Laric.<br>
 This video is a meta-exploration of the relationship between copy and original, authorship, piracy, and reuse. Ultimately, *Versions* is a celebration of visual culture as a collective, social project, historically and in the internet-enabled present.
 <br>...Which opened up doors to different approaches. 
 
-![<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png" width="100%">](#)
 
 Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
 
 
-![<img src=]
-![](RREADME-images/Screenshot_2020-03-09_at_13.00.06.png)
-![](README-images/Screenshot_2020-03-09_at_13.01.49.png)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/Screenshot_2020-03-09_at_13.00.19.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/Screenshot_2020-03-09_at_13.01.49.png" width="100%">](#)
 
 > Touched with a hammer or a tunin fork, I cook every chant in my pot. It's the real thing.
 
