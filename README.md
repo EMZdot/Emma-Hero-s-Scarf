@@ -93,19 +93,15 @@ Things like furs and cigarettes were boosted in movies and red carpets by the re
 
 ## Between **Original and Copy**
 
-[<img src="README-images/CHSDM-241582_02-000001.jpg" width="30%">](#)
-
-*Example of Mieke's Design →* 
-
-****The biggest visual power show****
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/visualpowershow.jpg" width="100%">](#)
 
 → 'To be heroes', why are heroes forced to *global visibility*? 
 → Why does Mieke chooses only fame related entrees? 
 → And why does she call them heroes and not 'icons'? 
 
-→ Came across this video called *Versions* by Oliver Laric...
+→ I came across this video called *Versions* by Oliver Laric...
 
-![](README-images/Screenshot_2020-03-09_at_12.49.56.png)
+![](https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png)
 
 →*Link:*  [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
 
