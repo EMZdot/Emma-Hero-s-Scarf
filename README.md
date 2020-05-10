@@ -62,8 +62,9 @@ One major issues in idolizing these people is not really their habits or fashion
 The facts that the majority of Icons and Idols are all extremely rich puts a stress of the economical factor, making people think that money is the only thing that counts. Therefore money become a goal or purpose in someone's life, money becomes their drive, instead of other much more significant values. Money is a very shallow reason to do something or base something upon; and totally irrelevant when it comes to personal discovery or growth. 
 By looking and copying there cannot be any personal and spiritual growth or development.
 
-***Questions and Reflections***
-
+<details>
+<summary>Questions and Reflections</summary>
+```
 *→ But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". <br>
 → What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. <br>
 → What if heroes do not exist? <br>
@@ -94,7 +95,8 @@ By looking and copying there cannot be any personal and spiritual growth or deve
 → Create myhtology?<br>
 → Narratives, rituals...<br>
 → Quiz, who is your hero? (given hero like a token)*
-
+```
+</details>
 
 ## Between **Original and Copy**
 
