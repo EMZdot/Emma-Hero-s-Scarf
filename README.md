@@ -220,6 +220,36 @@ Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/ver
 > *Multiplications of an Icon, far from diluting its cultic power, rather increases its fame and each image - however imperfect -conventionally partakes of some portion of the properties of the pre-cursor.*
 
 
+<details>
+<summary>Questions and Reflections</summary>
+Medium: Fabric as a form of political poster;<br>
+From scarf to what?<br>
+Substituting? Tool to make different versions of the scarf?<br>
+
+*Options/What to do?*<br>
+→ 2020 version of this scarf<br>
+→ My Own version of the scarf<br>
+→ Categorized version of the scarf<br>
+→ In relation to mythology version of the scarf<br>
+→ Who gets to stay and who goes version of the scarf (a bit like Bart's assignment)<br>
+→ Poetic approach >> even get rid of images in the future<br>
+→ Playfulness (swap gender tools, etc)<br>
+→ Replace images with text, or numbers, think of other types of languages...<br>
+→ Conditional design related to tools (create other versions of it >> what is the first thing that pops up when googling Michael Jackson?) <br>
+<br>
+OR:<br>
+<br>
+→ Platform where people can give suggestions (transcoding) <br>
+→ Exceeding proportions (research into body modifications) <br>
+→ Which criteria do we need to add a person to this list? <br>
+→ Compare it to the past (mythology)<br>
+→ Have the public to create/help creating this object again according to nowadays society; (demographic: 10 young children and what they pick/10 old people and what they pick) <br>
+→ Keep in mind male majority (of the past) <br>
+→ Who or what is your Idol right now?<br>
+</details>
+
+## **List of Potential Transcodings** <br>
+
 **How can I see these Icons and what could they turn into?** 
 <br>List of keywords for potential approaches for Transcoding (interpretative and representative):<br><br>
 **→ Cult/Power:**<br>
@@ -235,12 +265,12 @@ Related to the resilience of someone's face, how much visual impact does a face 
 **→ Reproduction/Copy/Update:**<br>
 Related to the aspect of reproduction meant as multiplication. In this case quantity prevails over quality; big amounts of the same 'original' create subcoscious data that translates into memories and if there is a 'like' factor, here comes the idolization. Update stands for how this translated throughout the passage of time.
 
-→ ***MULTIPLICATION CREATES ENDURANCE***<br>
+***MULTIPLICATION CREATES ENDURANCE***<br>
 Mythology/Icons: Details/features that creates immediate recognition and when repeated/multiplied creates resistence in time. 
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/mythology.jpg" width="100%">](#)
 
-Qs.
+Final Qs.<br>
 → Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?<br>
 → To which extent do humans project their needs, wishes and goals on other humans? Are we aware of this projection? If so, how much are we concerned?<br>
 → Where does the limit stands when idolizing? Is idolizing on a global scale fair?<br>
@@ -253,10 +283,9 @@ Qs.
 → Compare a person's facial features to the effectivness of artifact's characteristics;<br>
 → Related to media and reproduction: *Repetition and multiplication consolidates.*<br>
 → Categorization of Heroes<br>
-→ Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.
-
-**→ Fame in relation to the face = How does recognition works?** <br>
-It is helpful in approaching different methods of transcoding when it comes to interpretation and media.
+→ Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.<br>
+→ Fame in relation to the face = How does recognition works? <br>
+→ It is helpful in approaching different methods of transcoding when it comes to interpretation and media.
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/physiognomy1-articleLarge.jpg" width="100%">](#)
 → How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
