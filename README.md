@@ -120,13 +120,11 @@ Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/ver
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/Screenshot_2020-03-09_at_13.00.19.png" width="100%">](#)
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/Screenshot_2020-03-09_at_13.01.49.png" width="100%">](#)
 
-> Touched with a hammer or a tunin fork, I cook every chant in my pot. It's the real thing.
-
 > Many versions, are different perspectives, of one movable event.
+> Every lie creates a parallel world, the world in which is true.
 
 > *Multiplications of an Icon, far from diluting its cultic power, rather increases its fame and each image - however imperfect -conventionally partakes of some portion of the properties of the pre-cursor.*
 
-> Every lie creates a parallel world, the world in which is true.
 
 **How can I see these Icons and what could they turn into?** 
 <br>List of keywords for potential approaches for Transcoding (interpretative and representative):<br><br>
@@ -143,29 +141,22 @@ Related to the resilience of someone's face, how much visual impact does a face 
 **→ Reproduction/Copy/Update:**<br>
 Related to the aspect of reproduction meant as multiplication. In this case quantity prevails over quality; big amounts of the same 'original' create subcoscious data that translates into memories and if there is a 'like' factor, here comes the idolization. Update stands for how this translated throughout the passage of time.
 
-
-
-
+Qs.
 → Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?<br>
 → To which extent do humans project their needs, wishes and goals on other humans? Are we aware of this projection? If so, how much are we concerned?<br>
 → Where does the limit stands when idolizing? Is idolizing on a global scale fair?<br>
 → Why is there such a bis reaction/opinion on this topic? <br>
 → How is metadata of scarf collected and catalogued? <br>
 → How to approach the source/origin of this artifact?<br>
+→ What is the resilience of someone's face?<br>
+→ Scientific approach (?)<br>
+→ Links to longevity of historical artifacts;<br>
+→ Compare a person's facial features to the effectivness of artifact's characteristics;<br>
+→ Related to media and reproduction: *Repetition and multiplication consolidates.*<br>
+→ Categorization of Heroes<br>
+→ Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.
 
-**→ Fame in relation to the face = How does recognition works?** 
-
-→ WHAT IS THE RESILIENCE OF SOMEONE'S FACE? 
-
-- scientific approach (?)
-- links to longevity of historical artifacts;
-- compare a person's facial features to the effectivness of artifact's characteristics;
-- related to media and reproduction: R*epetition and multiplication consolidates.*
-    → CATEGORIZATION OF HEROES
-
-    Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.
-
-### **Distinctive features and Facial Recognition**
+### *Distinctive features and Facial Recognition*
 
 ![](README-images/physiognomy1-articleLarge.jpg)
 
