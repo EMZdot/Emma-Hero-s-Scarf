@@ -38,7 +38,7 @@ Mieke Gerritzen designed a scarf with the images of all possible modern icons of
 Her work always revolves around exploring the relationship between images and various aspects of contemporary life. Mieke’s work is always thought-provoking and critical towards the way we devour images that are served to us every day of our lives. She often points out the paradox of the abundance of visual material on the one hand, and our illiteracy when it comes to really understanding what we see on the other hand.<br>
 > [...] "Yet the most characteristic quality of this new social development may not be the number of images that confronts us but rather our deep need to visualise everything we deem important. We do this en masse, even though most of us aren’t trained to do so."
 
-[http://heroesmuseum.online/](http://heroesmuseum.online/) → Here is where to find the HEROES MUSEUM, where she linked all of the Icons used in the Scarf and more. 
+[http://heroesmuseum.online/](http://heroesmuseum.online/) → HEROES MUSEUM, where all of the 'Heroes' are linked. 
 
 #### *Iconophilia VS Iconoclasm*
 **This is the paradox of iconoclasm: it draws us to the very thing it would destroy, inscribing a story and creating an object that is, in certain respects, richer and more powerful than before.** <br> The toppled monument and the defaced statue strike us with greater force than their integral counterparts, becoming potential sites of reflection but also of emotional response.
