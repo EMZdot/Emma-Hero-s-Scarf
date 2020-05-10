@@ -235,6 +235,11 @@ Related to the resilience of someone's face, how much visual impact does a face 
 **→ Reproduction/Copy/Update:**<br>
 Related to the aspect of reproduction meant as multiplication. In this case quantity prevails over quality; big amounts of the same 'original' create subcoscious data that translates into memories and if there is a 'like' factor, here comes the idolization. Update stands for how this translated throughout the passage of time.
 
+→ ***MULTIPLICATION CREATES ENDURANCE***<br>
+Mythology/Icons: Details/features that creates immediate recognition and when repeated/multiplied creates resistence in time. 
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/mythology.jpg" width="100%">](#)
+
 Qs.
 → Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?<br>
 → To which extent do humans project their needs, wishes and goals on other humans? Are we aware of this projection? If so, how much are we concerned?<br>
@@ -250,20 +255,11 @@ Qs.
 → Categorization of Heroes<br>
 → Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.
 
-### *Distinctive features and Facial Recognition*
+**→ Fame in relation to the face = How does recognition works?** <br>
+It is helpful in approaching different methods of transcoding when it comes to interpretation and media.
 
-![](README-images/physiognomy1-articleLarge.jpg)
-
-**→ Fame in relation to the face = How does recognition works?** 
-
-It is helpful in approaching different methods of transcoding when it comes to interpretation and media. 
-
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/physiognomy1-articleLarge.jpg" width="100%">](#)
 → How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
-![](README-images/conjunto-de-los-animales-mitologicos-mermaid-minotauro-unicornio-dragon-chino-cerberus-esfinge-arpia-griffin-mitico-basilisco-roc-mujer-pajaro-las-criaturas-griegas-grabados-antiguos-dibujados-a-mano-vintage-sketch-pxn83f.jpg)
-
-Mythology/Icons: Details/features that creates immediate recognition and when repeated/multiplied creates resistence in time. 
-
-→ ***MULTIPLICATION CREATES ENDURANCE***
 
 # **Transcoding**
 
