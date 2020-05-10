@@ -38,21 +38,19 @@ Mieke Gerritzen designed a scarf with the images of all possible modern icons of
 Her work always revolves around exploring the relationship between images and various aspects of contemporary life. Mieke’s work is always thought-provoking and critical towards the way we devour images that are served to us every day of our lives. She often points out the paradox of the abundance of visual material on the one hand, and our illiteracy when it comes to really understanding what we see on the other hand.
 > [...] "Yet the most characteristic quality of this new social development may not be the number of images that confronts us but rather our deep need to visualise everything we deem important. We do this en masse, even though most of us aren’t trained to do so."
 
-### *Iconophilia VS Iconoclasm*
+#### *Iconophilia VS Iconoclasm*
 **This is the paradox of iconoclasm: it draws us to the very thing it would destroy, inscribing a story and creating an object that is, in certain respects, richer and more powerful than before.** <br> The toppled monument and the defaced statue strike us with greater force than their integral counterparts, becoming potential sites of reflection but also of emotional response.
 There can be so much connected to this topic: the public perception of a "God", the maniac obsession of celebrities, that become icons (in a capitalistic society), the destruction of global heritage by an elite, the manipulation of information throughout time: the disappearing of some and the transformation of others.
 Sacred damaged images acquire more symbolical value after the iconoclast intervention; other 'icons' simply disappear. 
 The personal subjective perception of 'icons'? How do people see people and why? 
 Think of this Heroes list's meaning in society, what is the response and what is the interpretation I want to give to it? Can I create my own Heroes' list? Or a list that would function in a utopian parallel universe?
 
-### ***The Phenomenon of Glorification***
-Our beloved Hollywood's Stars and VIPs became these alienating, unquestionable role&life models of who we got used to accept everything, to an extent of envying them and even desiring to become like them.  This obsessive way of approaching and look up to these people is cause of spiritual blindness in the majority of the human beings.
-In the 50's and 60's the yet unknown concept of Stardom was totally blooming!  
-<br>Le 'Cinéma de niche' opened the doors to a serie of immortal Icons, but it also gave birth to a wave of pathetic clichés such as: 'Look at that guy, yes that with a cigarette, he's so cool', 'A fur makes you look like you're worth a million', and so on and so forth. Personalities and lifestyles of these people started to get all over tv, gaining more and more visibility, becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good and bad, true and false) were so influential on their audience that within no time they started to make more damage than ever.
+#### ***The Phenomenon of Glorification***
+Our beloved Hollywood's Stars and VIPs became these alienating, unquestionable role&life models of who we got used to accept everything, to an extent of envying them and even desiring to become like them. This obsessive way of approaching and look up to these people is cause of spiritual blindness in the majority of the human beings. In the 50's and 60's the yet unknown concept of Stardom was totally blooming!
+Le 'Cinéma de niche' opened the doors to a serie of immortal Icons, but it also gave birth to a wave of pathetic clichés such as: 'Look at that guy, yes that with a cigarette, he's so cool', 'A fur makes you look like you're worth a million', and so on and so forth. Personalities and lifestyles of these people started to get all over tv, gaining more and more visibility, becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good and bad, true and false) were so influential on their audience that within no time they started to make more damage than ever.
 <br>There was such a big economical manipulation behind their public figures, there still is nowadays.
 Things like furs and cigarettes were boosted in movies and red carpets by the respective industries, destroying the little ethic values that people had and encouraging harmful habits out of something that, at a time when everything was fresh and new, looked 'sexy'.
 <br>The depreciation of values like love and respect was much helped by things like reality shows and the impending ease in dealing with a divorce. Divorces became almost a habit and on a daily basis and easier for people to take that decision. Reality shows, with their mad screaming and free violence (both phisical and psychological) created a layer of apathy and detachment and these ways of acting became ways of being, bringing these attitudes up to a daily-basis level.
-
 
 <details>
 <summary>Questions and Reflections</summary>
