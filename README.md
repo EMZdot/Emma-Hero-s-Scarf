@@ -64,8 +64,7 @@ By looking and copying there cannot be any personal and spiritual growth or deve
 
 <details>
 <summary>Questions and Reflections</summary>
-```
-*→ But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". <br>
+→ But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". <br>
 → What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. <br>
 → What if heroes do not exist? <br>
 → Can there be a shift in the meaning and reception of it? <br>
@@ -94,13 +93,12 @@ By looking and copying there cannot be any personal and spiritual growth or deve
 → How is metadata of scarf collected and catalogued?<br>
 → Create myhtology?<br>
 → Narratives, rituals...<br>
-→ Quiz, who is your hero? (given hero like a token)*
-```
+→ Quiz, who is your hero? (given hero like a token)
 </details>
 
 ## Between **Original and Copy**
 
-[<img src="README-images/CHSDM-241582_02-000001.jpg" width="50%">](#)
+[<img src="README-images/CHSDM-241582_02-000001.jpg" width="30%">](#)
 
 *Example of Mieke's Design →* 
 
