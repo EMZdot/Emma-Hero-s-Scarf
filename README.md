@@ -210,8 +210,7 @@ This video is a meta-exploration of the relationship between copy and original, 
 Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
 
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/Screenshot_2020-03-09_at_13.00.19.png" width="100%">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/Screenshot_2020-03-09_at_13.01.49.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/quotes.jpg" width="100%">](#)
 
 > Many versions, are different perspectives, of one movable event.
 
@@ -248,7 +247,8 @@ OR:<br>
 → Who or what is your Idol right now?<br>
 </details>
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/physiognomy1-articleLarge.jpg" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/face%20recognition.jpg" width="100%">](#)
+
 → How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
 
 ## **Research of Potential Transcodings** <br>
@@ -294,9 +294,57 @@ Mythology/Icons: Details/features that creates immediate recognition and when re
 
 # **Transcoding**
 
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
+The artwork I chose is given to the public in its purely visual matter because it needs a 'neutral' and raw response, without any explanation. It is source of controversial interpretations from its audience. <br>
+In my project I want to build a bridge between the artwork and its context, to conceive in it my own take on a subject so vague but at the same time so absolute. Therefore transcoding plays a role withing the sub-areas of the Heroes' Scarf. Through the different transcodings I bring to the surface some implicit but very hidden characteristics behind the artifact, recreating somehow an imaginary bridge between the Scarf and Mieke's intentions, but also allowing myself to add my own interpretation and re-contextualisation to the piece. 
 
 ## **Transcoding No. 1**
+
+### **Written Heroes**
+
+This first transcoding creates a link between the *face* and the *identity*. Keeping the original medium and size, I replaced the visual Icons with *written ones*. It's an investigation between the visual power of face recognition and the open door to human immagination when it comes to sensory reading. 
+
+### **Methods**
+
+Having found out the proportions of the pattern's grid(123x24), I reproduced it on paper using the original size(2m by 40cm). Illustrator allowed me to re-design the 123 icons and turn them into descriptive writing using a combination of the Heroes Museum's descriptions of Icons and some trigger/key-words that could spped up the recognition process. 
+
+Remember to include the url link to jump to the full media, of course!
+
+### **Tools**
+
+Descriptive writing, Illustrator, Photoshop, ...
+
+### **Results**
+
+Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
+
+## **Transcoding No. 2**
+
+### **Diagnostics of an Idol - Publication**
+
+I am recreating the scarf in a virtual/digital version, using a scraping tool to keep the pictures of the Icons updated (where possible) according to the current time. Some icons are fictional, archetypal or even object, so there will evolve together with the audience's posts. In the case of still-alive stars and icons, the pictures will 'grow' together with their originals. 
+
+### **Methods**
+
+Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.
+
+
+![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.22.39.png)
+
+![](ransc.1%20Website/Screenshot%202020-05-02%20at%2019.23.07.png)
+
+![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png)
+
+Remember to include the url link to jump to the full media, of course!
+
+### **Tools**
+
+InDesign, Photoshop, FlipHTML5, ...
+
+### **Results**
+
+Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
+
+## **Transcoding No.3**
 
 ### **Updated Online Scarf**
 
@@ -317,7 +365,7 @@ Remember to include the url link to jump to the full media, of course!
 
 ### **Tools**
 
-Html, ...
+Photoshop, Html, ...
 
 ### **Results**
 
