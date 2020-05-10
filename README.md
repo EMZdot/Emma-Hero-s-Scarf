@@ -99,16 +99,16 @@ Things like furs and cigarettes were boosted in movies and red carpets by the re
 → Why does Mieke chooses only fame related entrees? <br>
 → And why does she call them heroes and not 'icons'?* 
 
-I came across this video called *Versions* by Oliver Laric...<br>
+I came across this video called *Versions* by Oliver Laric.<br>
 This video is a meta-exploration of the relationship between copy and original, authorship, piracy, and reuse. Ultimately, *Versions* is a celebration of visual culture as a collective, social project, historically and in the internet-enabled present.
-<br>...which opened up doors to different approaches. 
+<br>...Which opened up doors to different approaches. 
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png" width="100%">](#)
+![<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png" width="100%">](#)
 
 Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
 
 
-![](README-images/Screenshot_2020-03-09_at_13.00.19.png)
+![<img src=]
 ![](RREADME-images/Screenshot_2020-03-09_at_13.00.06.png)
 ![](README-images/Screenshot_2020-03-09_at_13.01.49.png)
 
