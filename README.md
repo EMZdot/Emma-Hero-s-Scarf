@@ -129,21 +129,29 @@ Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/ver
 > Every lie creates a parallel world, the world in which is true.
 
 **How can I see these Icons and what could they turn into?** 
-List of keywords for potential approaches for Transcoding (interpretative and representative):<br><br>
-**→ CULT/POWER:**<br>
-<space><space>Related to the religious sphere but also the political one. Idolatry within worship, belief and audience.<br>
-→ pre-cursors<br>
-→ reproduction/copy/update<br>
-→ facial features/recognition<br>
-→ historical artifacts<br>
-→ rituals/myths<br>
+<br>List of keywords for potential approaches for Transcoding (interpretative and representative):<br><br>
+**→ Cult/Power:**<br>
+Related to the religious sphere but also the political one. Idolatry within worship, belief and audience.<br>
+**→ Pre-Cursors:**<br>
+Related to the past/ancient relationships between genetics A and genetics B (worshipped and worshippers), pyramidal hierarchies and circular balance of 'importance'. <br>
+**→ Rituals/Myths:**<br>
+Related to the psychological function and effects of idolatry. When does the adoration for someone become a ritual? And when does the genetics A, the worshipped, become a myth? Idols can be fiction too.  <br>
+**→ Historical Artifacts:**<br>
+Related to historical ways of portrayin Idols. From statues to temples, from gold coins to golden death masks.<br>
+**→ Features/Face Recognition:**<br>
+Related to the resilience of someone's face, how much visual impact does a face (or anything visual) has rather than an action, a word or a sound. <br>
+**→ Reproduction/Copy/Update:**<br>
+Related to the aspect of reproduction meant as multiplication. In this case quantity prevails over quality; big amounts of the same 'original' create subcoscious data that translates into memories and if there is a 'like' factor, here comes the idolization. Update stands for how this translated throughout the passage of time.
 
-→ Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?
-→ To which extent do humans project their needs, wishes and goals on other humans? Are humans aware of this projection? If so, how much are they concerned?
-→ Where does the limit stands when idolizing? Is idolizing on a global scale fair?
-→ Why is there such a bis reaction/opinion on this topic? 
-→ How is metadata of scarf collected and catalogued ? 
-→ How to approach the source/origin of this artifact?
+
+
+
+→ Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?<br>
+→ To which extent do humans project their needs, wishes and goals on other humans? Are we aware of this projection? If so, how much are we concerned?<br>
+→ Where does the limit stands when idolizing? Is idolizing on a global scale fair?<br>
+→ Why is there such a bis reaction/opinion on this topic? <br>
+→ How is metadata of scarf collected and catalogued? <br>
+→ How to approach the source/origin of this artifact?<br>
 
 **→ Fame in relation to the face = How does recognition works?** 
 
