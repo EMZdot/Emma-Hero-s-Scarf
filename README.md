@@ -58,7 +58,7 @@ Think of this Heroes list's meaning in society, what is the response and what is
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/idolsbanner.jpg" width="100%">](#)
 
-#### ***The Phenomenon of Glorification***
+#### *The Phenomenon of Glorification*
 
 Our beloved Hollywood's Stars and VIPs became these alienating, unquestionable role&life models of who we got used to accept everything, to an extent of envying them and even desiring to become like them. This obsessive way of approaching and look up to these people is cause of spiritual blindness in the majority of the human beings. In the 50's and 60's the yet unknown concept of Stardom was totally blooming!<br>
 Le 'Cinéma de niche' opened the doors to a serie of immortal Icons, but it also gave birth to a wave of pathetic clichés such as: 'Look at that guy, yes that with a cigarette, he's so cool', 'A fur makes you look like you're worth a million', and so on and so forth. Personalities and lifestyles of these people started to get all over tv, gaining more and more visibility, becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good and bad, true and false) were so influential on their audience that within no time they started to make more damage than ever.
@@ -100,7 +100,7 @@ Things like furs and cigarettes were boosted in movies and red carpets by the re
 → Quiz, who is your hero? (given hero like a token)
 </details>
 
-### Between Original and Copy
+### *Between Original and Copy*
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/visualpowershow.jpg" width="100%">](#)
 
@@ -128,16 +128,15 @@ Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/ver
 
 > Every lie creates a parallel world, the world in which is true.
 
-**>> *KEYWORDS FOR POTENTIAL APPROACHES FOR TRANSCODING (INTERPRETATIVE) <<*
-*How can I see these Icons? 
-What could they turn into?***
-
-**→ cult/power
-→ pre-cursors
-→ reproduction/copy/update
-→ facial features/recognition
-→ historical artifacts
-→ rituals/myths**
+**How can I see these Icons and what could they turn into?** 
+List of keywords for potential approaches for Transcoding (interpretative and representative):<br>
+→ cult/power:<br>
+    <dd>Related to the religious sphere but also the political one. Idolatry within worship, belief and audience. </dd><br>
+→ pre-cursors<br>
+→ reproduction/copy/update<br>
+→ facial features/recognition<br>
+→ historical artifacts<br>
+→ rituals/myths<br>
 
 → Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?
 → To which extent do humans project their needs, wishes and goals on other humans? Are humans aware of this projection? If so, how much are they concerned?
