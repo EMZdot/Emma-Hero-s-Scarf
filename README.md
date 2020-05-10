@@ -48,9 +48,18 @@ Sacred damaged images acquire more symbolical value after the iconoclast interve
 The personal subjective perception of 'icons'? How do people see people and why? <br>
 Think of this Heroes list's meaning in society, what is the response and what is the interpretation I want to give to it? Can I create my own Heroes' list? Or a list that would function in a utopian parallel universe?
 
+<details>
+<summary>Idolatry's Identity</summary>
+</details>
+
+<details>
+<summary>Idolatry in Religion</summary>
+</details>
+
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/idolsbanner.jpg" width="100%">](#)
 
 #### ***The Phenomenon of Glorification***
+
 Our beloved Hollywood's Stars and VIPs became these alienating, unquestionable role&life models of who we got used to accept everything, to an extent of envying them and even desiring to become like them. This obsessive way of approaching and look up to these people is cause of spiritual blindness in the majority of the human beings. In the 50's and 60's the yet unknown concept of Stardom was totally blooming!<br>
 Le 'Cinéma de niche' opened the doors to a serie of immortal Icons, but it also gave birth to a wave of pathetic clichés such as: 'Look at that guy, yes that with a cigarette, he's so cool', 'A fur makes you look like you're worth a million', and so on and so forth. Personalities and lifestyles of these people started to get all over tv, gaining more and more visibility, becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good and bad, true and false) were so influential on their audience that within no time they started to make more damage than ever.
 <br>There was such a big economical manipulation behind their public figures, there still is nowadays.
