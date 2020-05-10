@@ -52,6 +52,8 @@ Le 'Cinéma de niche' opened the doors to a serie of immortal Icons, but it also
 Things like furs and cigarettes were boosted in movies and red carpets by the respective industries, destroying the little ethic values that people had and encouraging harmful habits out of something that, at a time when everything was fresh and new, looked 'sexy'.
 <br>The depreciation of values like love and respect was much helped by things like reality shows and the impending ease in dealing with a divorce. Divorces became almost a habit and on a daily basis and easier for people to take that decision. Reality shows, with their mad screaming and free violence (both phisical and psychological) created a layer of apathy and detachment and these ways of acting became ways of being, bringing these attitudes up to a daily-basis level.
 
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/idolsbanner.jpg" width="100%">](#)
+
 <details>
 <summary>Questions and Reflections</summary>
 → But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". <br>
