@@ -32,7 +32,7 @@ Artist *Mieke Gerritzen* designed this textile piece, called Hero's Scarf, with 
 
 # **Research**
 
-## *Mieke's Spectacle*
+## **Mieke's Spectacle**
 
 Mieke Gerritzen designed a scarf with the images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice. This scarf was taken from the range on offer in the museum shop of the Stedelijk Museum in Amsterdam because visitors were offended by the presence of mass murderers on the scarf. Mieke Gerritzen discusses the position of 'controversial art' in a museum (shop). Apparently a museum shop is not a real part of the museum but a purely commercial institution. After a few days the scarf was offered for sale again.<br>
 Her work always revolves around exploring the relationship between images and various aspects of contemporary life. Mieke’s work is always thought-provoking and critical towards the way we devour images that are served to us every day of our lives. She often points out the paradox of the abundance of visual material on the one hand, and our illiteracy when it comes to really understanding what we see on the other hand.<br>
@@ -248,7 +248,10 @@ OR:<br>
 → Who or what is your Idol right now?<br>
 </details>
 
-## **List of Potential Transcodings** <br>
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/physiognomy1-articleLarge.jpg" width="100%">](#)
+→ How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
+
+## **Research of Potential Transcodings** <br>
 
 **How can I see these Icons and what could they turn into?** 
 <br>List of keywords for potential approaches for Transcoding (interpretative and representative):<br><br>
@@ -268,9 +271,8 @@ Related to the aspect of reproduction meant as multiplication. In this case quan
 ***MULTIPLICATION CREATES ENDURANCE***<br>
 Mythology/Icons: Details/features that creates immediate recognition and when repeated/multiplied creates resistence in time. 
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/mythology.jpg" width="100%">](#)
-
-Final Qs.<br>
+<details>
+<summary>Final Questions and Reflections</summary>
 → Are 'heroes' and 'celebrities' distortions of reality? Re-edit into One's reality to fit their vision?<br>
 → To which extent do humans project their needs, wishes and goals on other humans? Are we aware of this projection? If so, how much are we concerned?<br>
 → Where does the limit stands when idolizing? Is idolizing on a global scale fair?<br>
@@ -286,9 +288,9 @@ Final Qs.<br>
 → Mistification and mythification of human figures just like in ancient Greece and Rome, when it was mostly mythology that created heroes.<br>
 → Fame in relation to the face = How does recognition works? <br>
 → It is helpful in approaching different methods of transcoding when it comes to interpretation and media.
+</details>
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/physiognomy1-articleLarge.jpg" width="100%">](#)
-→ How does facial recognition work? ([https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/mythology.jpg" width="100%">](#)
 
 # **Transcoding**
 
