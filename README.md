@@ -64,36 +64,36 @@ By looking and copying there cannot be any personal and spiritual growth or deve
 
 ***Questions and Reflections***
 
-*→ But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". 
-→ What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. 
-→ What if heroes do not exist? 
-→ Can there be a shift in the meaning and reception of it? 
-→ Can the obsession of these icons shift into a realisation of the loss of much more important things? (Native-American massacre should be much more important than Kim Kardashian) 
-→ Can I address the superficiality/shallowness of people? 
-→ Also, how do you define the importance of something? Because people give importance to it?
-→ Can I relate it to memory?*
-→ The object is referential to the topic of Stardom
-→ How does it open up venues when thinking in other media?
-→ Research Why is it, that Archives prioritize content.
-→ Mieke made it in her generation of Design Stars >> is it self preservation? **
-→ Fame in relation to the face (how does recognition works), 
-→ What is the resilience of someone's face? 
-→ Who survives the process of recognition and why? 
-→ Visual spamming? 
-→ What is this object in relation to the Archive?
-→ What is the urgency of the significance of it? 
-→ What would it be if I had to update the scarf's content?
-→ Its position in the archive can bring up many questions? Why is it there? 
-→ Think of how to work with the Archive, how to traslate the "scarf" into a method or reason in how to work with the archive, think of materiality of it, why textile? Why a scarf?
-→ Can I connect nostalgia to these icons?* 
-*→ Think of the Criteria when classifying these people, who got chosen and who not?
-→ List of actions to do when at the archive: tape, pictures, scan...(scent...)
-→ Family tree (?) 
-→ How do we make strategies for things to exist in a longer period of time ?
-→ How is metadata of scarf collected and catalogued ? 
-→ Create myhtology ?
-→ Narratives, rituals...*
-*→ Quiz, who is your hero? (given hero like a token)*
+*→ But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". <br>
+→ What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. <br>
+→ What if heroes do not exist? <br>
+→ Can there be a shift in the meaning and reception of it? <br>
+→ Can the obsession of these icons shift into a realisation of the loss of much more important things? (Native-American massacre should be much more important than Kim Kardashian) <br>
+→ Can I address the superficiality/shallowness of people? <br>
+→ Also, how do you define the importance of something? Because people give importance to it?<br>
+→ Can I relate it to memory?<br>
+→ The object is referential to the topic of Stardom<br>
+→ How does it open up venues when thinking in other media?<br>
+→ Research Why is it, that Archives prioritize content.<br>
+→ Mieke made it in her generation of Design Stars >> is it self preservation? <br>
+→ Fame in relation to the face (how does recognition works) <br>
+→ What is the resilience of someone's face? <br>
+→ Who survives the process of recognition and why? <br>
+→ Visual spamming? <br>
+→ What is this object in relation to the Archive?<br>
+→ What is the urgency of the significance of it? <br>
+→ What would it be if I had to update the scarf's content?<br>
+→ Its position in the archive can bring up many questions? Why is it there? <br>
+→ Think of how to work with the Archive, how to traslate the "scarf" into a method or reason in how to work with the archive, think of materiality of it, why textile? Why a scarf?<br>
+→ Can I connect nostalgia to these icons?* <br>
+*→ Think of the Criteria when classifying these people, who got chosen and who not?<br>
+→ List of actions to do when at the archive: tape, pictures, scan...(scent...)<br>
+→ Family tree (?) <br>
+→ How do we make strategies for things to exist in a longer period of time?<br>
+→ How is metadata of scarf collected and catalogued?<br>
+→ Create myhtology?<br>
+→ Narratives, rituals...<br>
+→ Quiz, who is your hero? (given hero like a token)*
 
 
 ## Between **Original and Copy**
