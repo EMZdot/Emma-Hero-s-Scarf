@@ -91,23 +91,22 @@ Things like furs and cigarettes were boosted in movies and red carpets by the re
 → Quiz, who is your hero? (given hero like a token)
 </details>
 
-## Between **Original and Copy**
+### Between Original and Copy
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/visualpowershow.jpg" width="100%">](#)
 
-→ 'To be heroes', why are heroes forced to *global visibility*? 
-→ Why does Mieke chooses only fame related entrees? 
-→ And why does she call them heroes and not 'icons'? 
+*→ 'To be heroes', why are heroes forced to global visibility? <br>
+→ Why does Mieke chooses only fame related entrees? <br>
+→ And why does she call them heroes and not 'icons'?* 
 
-→ I came across this video called *Versions* by Oliver Laric...
+I came across this video called *Versions* by Oliver Laric...<br>
+This video is a meta-exploration of the relationship between copy and original, authorship, piracy, and reuse. Ultimately, *Versions* is a celebration of visual culture as a collective, social project, historically and in the internet-enabled present.
+<br>...which opened up doors to different approaches. 
 
-![](https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/versions.png" width="100%">](#)
 
-→*Link:*  [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
+Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions) 
 
-*Versions* is a meta-exploration of the relationship between copy and original, authorship, piracy, and reuse. Ultimately, *Versions* is a celebration of visual culture as a collective, social project, historically and in the internet-enabled present.
-
-...which opened up doors to different approaches. 
 
 ![](README-images/Screenshot_2020-03-09_at_13.00.19.png)
 ![](RREADME-images/Screenshot_2020-03-09_at_13.00.06.png)
