@@ -301,13 +301,15 @@ In my project I want to build a bridge between the artwork and its context, to c
 
 ### **Written Heroes**
 
-This first transcoding creates a link between the *face* and the *identity*. Keeping the original medium and size, I replaced the visual Icons with *written ones*. It's an investigation between the visual power of face recognition and the open door to human immagination when it comes to sensory reading. 
+This first is an  iterpretative transcoding which creates a link between the *face* and the *identity*. Keeping the original medium and size, I used *written intuitive descriptive replacements* to recreate the scarf without using the original images. It's an investigation between the power of face recognition and the open door to human immagination when it comes to sensory reading. 
 
 ### **Methods**
 
 Having found out the proportions of the pattern's grid(123x24), I reproduced it on paper using the original size(2m by 40cm). Illustrator allowed me to re-design the 123 icons and turn them into descriptive writing using a combination of the Heroes Museum's descriptions of Icons and some trigger/key-words that could spped up the recognition process. 
 
-Remember to include the url link to jump to the full media, of course!
+//Pictures of Sketches
+
+//Remember to include the url link to jump to the full media, of course!
 
 ### **Tools**
 
@@ -315,26 +317,22 @@ Descriptive writing, Illustrator, Photoshop, ...
 
 ### **Results**
 
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
+//Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
 
 ## **Transcoding No. 2**
 
 ### **Diagnostics of an Idol - Publication**
 
-I am recreating the scarf in a virtual/digital version, using a scraping tool to keep the pictures of the Icons updated (where possible) according to the current time. Some icons are fictional, archetypal or even object, so there will evolve together with the audience's posts. In the case of still-alive stars and icons, the pictures will 'grow' together with their originals. 
+This transcoding is a research-based publication on the subjects ‘idolatry and stardom’. It is a transcoding in the broader sense of the word; mostly focusing on reinforcing the base of the bridge I want to build, which holds the untold context and content as well as the subject matter of these *images* in relation to them.<br>
+It breaks down the concept of *idol* and the topics revolving around it such as glory, relationship between original and copy, facial recognition, etc. The Publication contains a contextualisation and a reflection on this topic, with many visual and written references and sources (f.i. religion, original/copy, etc), visual sections and footnotes.
 
 ### **Methods**
 
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.
+By adding background content to my research, both written and visual, I create a 18x28,5cm book in which the Icons from the Heroes' Scarf play a secondary role. I transform them into supportive elements of a written research, placing them as if they were sidenotes. 
 
+//Pictures of Sketches
 
-![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.22.39.png)
-
-![](ransc.1%20Website/Screenshot%202020-05-02%20at%2019.23.07.png)
-
-![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png)
-
-Remember to include the url link to jump to the full media, of course!
+//Remember to include the url link to jump to the full media, of course!
 
 ### **Tools**
 
@@ -348,20 +346,15 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 
 ### **Updated Online Scarf**
 
-I am recreating the scarf in a virtual/digital version, using a scraping tool to keep the pictures of the Icons updated (where possible) according to the current time. Some icons are fictional, archetypal or even object, so there will evolve together with the audience's posts. In the case of still-alive stars and icons, the pictures will 'grow' together with their originals. 
+With this transcoding I am recreating the scarf in a virtual/digital version, using a scraping tool to keep the pictures of the Icons updated (where possible) according to the current time. This transcoding is a combination of three approaches. In this transcoding there is a representative layer, in which I use *images* as the first level, the one the audience sees first. It is interactive: by simple actions it gives the public the possibility to access the second level which is writtena and descriptive (transc.1), which links to a more contextual archive (transc.2). 
 
 ### **Methods**
 
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.
+I divide a website vertically in 123 squares by 24, in each square I place an image. To the image I link a description, which opens up another link to the spreads of my booklet. 
 
+//Pictures of Sketches
 
-![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.22.39.png)
-
-![](ransc.1%20Website/Screenshot%202020-05-02%20at%2019.23.07.png)
-
-![](Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png)
-
-Remember to include the url link to jump to the full media, of course!
+//Remember to include the url link to jump to the full media, of course!
 
 ### **Tools**
 
