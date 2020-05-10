@@ -1,18 +1,18 @@
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/cover.jpeg" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/coverimg.jpg" width="100%">](#)
 # **Diagnostics of an Idol**
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding No. 2](#Transcoding-no-2)
-    3. [Transcoding Tools](#Transcoding-tools)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+3. [Transcoding](#transcoding)
+    1. [Transcoding No. 1](#transcoding-no-1)
+    2. [Transcoding No. 2](#transcoding-no-2)
+    3. [Transcoding Tools](#transcoding-tools)
+4. [Reflection](#reflection)
+5. [Outcomes](#outcomes)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography) 
 
 # **Artefact**
 
@@ -38,7 +38,7 @@ Mieke Gerritzen designed a scarf with the images of all possible modern icons of
 Her work always revolves around exploring the relationship between images and various aspects of contemporary life. Mieke’s work is always thought-provoking and critical towards the way we devour images that are served to us every day of our lives. She often points out the paradox of the abundance of visual material on the one hand, and our illiteracy when it comes to really understanding what we see on the other hand.
 > [...] "Yet the most characteristic quality of this new social development may not be the number of images that confronts us but rather our deep need to visualise everything we deem important. We do this en masse, even though most of us aren’t trained to do so."
 
-***~~>> ICONOPHILIA/ICONOMANIA AND ICONOCLASM >>~~***
+### *Iconophilia VS Iconoclasm*
 
 **This is the paradox of iconoclasm: it draws us to the very thing it would destroy, inscribing a story and creating an object that is, in certain respects, richer and more powerful than before.** <br> The toppled monument and the defaced statue strike us with greater force than their integral counterparts, becoming potential sites of reflection but also of emotional response.
 There can be so much connected to this topic: the public perception of a "God", the maniac obsession of celebrities, that become icons (in a capitalistic society), the destruction of global heritage by an elite, the manipulation of information throughout time: the disappearing of some and the transformation of others.
@@ -46,14 +46,7 @@ Sacred damaged images acquire more symbolical value after the iconoclast interve
 The personal subjective perception of 'icons'? How do people see people and why? 
 Think of this Heroes list's meaning in society, what is the response and what is the interpretation I want to give to it? Can I create my own Heroes' list? Or a list that would function in a utopian parallel universe?
 
-*→ Can there be a shift in the meaning and reception of it? 
-→ Can the obsession of these icons shift into a realisation of the loss of much more important things? (Native-American massacre should be much more important than Kim Kardashian) 
-→ Can I address the superficiality/shallowness of people? 
-→ Also, how do you define the importance of something? Because people give importance to it?
-→ Can I relate it to memory?*
-
-***~~>> STARDOM - HOLLYWOOD'S STARS <<~~***
-
+***STARDOM: Hollywood's Icons***
 Unquestionable role/life models of who we accept everything and even envy them → 
 This is cause of the blindness of the majority of humanity.
 In the 50's and 60's Stardom was blooming! Mostly because of Cinema Stars (also in Italy).
@@ -69,12 +62,16 @@ One major issues in idolizing these people is not really their habits or fashion
 The facts that the majority of Icons and Idols are all extremely rich puts a stress of the economical factor, making people think that money is the only thing that counts. Therefore money become a goal or purpose in someone's life, money becomes their drive, instead of other much more significant values. Money is a very shallow reason to do something or base something upon; and totally irrelevant when it comes to personal discovery or growth. 
 By looking and copying there cannot be any personal and spiritual growth or development.
 
-→ *But are all Icons bad?* 
-The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. What if heroes do not exist? 
+***Questions and Reflections***
 
-**~~>> QUESTIONS AND REFLECTIONS <<~~**
-
-*→ North Korean study (ask Agata) 
+*→ But are all Icons bad? The point is that it is the public that decides; when it comes to straight forward mass murderes or peace makes there is more or less an equal common response but when it comes to Stars there is more of a subtelty to it: it is a process, a long-term one. Mieke calls them "Heroes". 
+→ What is a hero? It is very subjective: for some people Hitler is a hero and for others he is a murder. 
+→ What if heroes do not exist? 
+→ Can there be a shift in the meaning and reception of it? 
+→ Can the obsession of these icons shift into a realisation of the loss of much more important things? (Native-American massacre should be much more important than Kim Kardashian) 
+→ Can I address the superficiality/shallowness of people? 
+→ Also, how do you define the importance of something? Because people give importance to it?
+→ Can I relate it to memory?*
 → The object is referential to the topic of Stardom
 → How does it open up venues when thinking in other media?
 → Research Why is it, that Archives prioritize content.
@@ -97,6 +94,7 @@ The point is that it is the public that decides; when it comes to straight forwa
 → Create myhtology ?
 → Narratives, rituals...*
 *→ Quiz, who is your hero? (given hero like a token)*
+
 
 ## Between **Original and Copy**
 
