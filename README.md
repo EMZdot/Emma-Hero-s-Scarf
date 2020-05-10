@@ -129,9 +129,9 @@ Link: [https://anthology.rhizome.org/versions](https://anthology.rhizome.org/ver
 > Every lie creates a parallel world, the world in which is true.
 
 **How can I see these Icons and what could they turn into?** 
-List of keywords for potential approaches for Transcoding (interpretative and representative):<br>
-→ cult/power:<br>
-    <dd>Related to the religious sphere but also the political one. Idolatry within worship, belief and audience. </dd><br>
+List of keywords for potential approaches for Transcoding (interpretative and representative):<br><br>
+**→ CULT/POWER:**<br>
+<space><space>Related to the religious sphere but also the political one. Idolatry within worship, belief and audience.<br>
 → pre-cursors<br>
 → reproduction/copy/update<br>
 → facial features/recognition<br>
