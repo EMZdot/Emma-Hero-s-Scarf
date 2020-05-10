@@ -343,7 +343,7 @@ InDesign, Photoshop, FlipHTML5, ...
 
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
 
-## **Transcoding No.3**
+## **Transcoding No. 3**
 
 ### **Updated Online Scarf**
 
@@ -365,7 +365,7 @@ Photoshop, Html, ...
 
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
 
-## **Transcoding Tool**
+## **Transcoding Tools**
 
 ### **Description**
 
