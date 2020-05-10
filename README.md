@@ -39,28 +39,20 @@ Her work always revolves around exploring the relationship between images and va
 > [...] "Yet the most characteristic quality of this new social development may not be the number of images that confronts us but rather our deep need to visualise everything we deem important. We do this en masse, even though most of us aren’t trained to do so."
 
 ### *Iconophilia VS Iconoclasm*
-
 **This is the paradox of iconoclasm: it draws us to the very thing it would destroy, inscribing a story and creating an object that is, in certain respects, richer and more powerful than before.** <br> The toppled monument and the defaced statue strike us with greater force than their integral counterparts, becoming potential sites of reflection but also of emotional response.
 There can be so much connected to this topic: the public perception of a "God", the maniac obsession of celebrities, that become icons (in a capitalistic society), the destruction of global heritage by an elite, the manipulation of information throughout time: the disappearing of some and the transformation of others.
 Sacred damaged images acquire more symbolical value after the iconoclast intervention; other 'icons' simply disappear. 
 The personal subjective perception of 'icons'? How do people see people and why? 
 Think of this Heroes list's meaning in society, what is the response and what is the interpretation I want to give to it? Can I create my own Heroes' list? Or a list that would function in a utopian parallel universe?
 
-***STARDOM: Hollywood's Icons***
-Unquestionable role/life models of who we accept everything and even envy them → 
-This is cause of the blindness of the majority of humanity.
-In the 50's and 60's Stardom was blooming! Mostly because of Cinema Stars (also in Italy).
-These people's personalities and lifestyles started to get all over tv and more and more visible. 
-They were becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good but mostly bad) were so influential on average people that within no time they started to make more damage than ever. 
-Stars started to wear furs and there started the boom of Fur Companies (which disintegrated the ethic principles of most people). 
-Divorces became almost a habit and on a daily basis and easier for people to take that decision; devaluating love and respect.
-Cigarettes were also a very "sexy" thing in movies, all the actors were smoking and this gave a boom to the tobacco industry: the number of smokers increased but also the healty issues that are a consequence;
-Even Reality Shows, with their screaming and free violence (both phisical and psychological) created a layer of apathy and detachment and these ways of acting became ways of being, bringing violence up to a semi-normal level.
-If One takes a VIP or star as a role/life model, copying everything they do and say, One loses the opportunity to discover and develop Oneself. One becomes a "stain" with no personality, losing connection with their own reality. One becomes a carbon copy of another. Using the single star as model, many become carbon copies. 
-The majority of humanity grows in groups and gets labled for having very similar traits, interests, manners and habits. 
-One major issues in idolizing these people is not really their habits or fashion: they all have one thing in common >> loads of money. 
-The facts that the majority of Icons and Idols are all extremely rich puts a stress of the economical factor, making people think that money is the only thing that counts. Therefore money become a goal or purpose in someone's life, money becomes their drive, instead of other much more significant values. Money is a very shallow reason to do something or base something upon; and totally irrelevant when it comes to personal discovery or growth. 
-By looking and copying there cannot be any personal and spiritual growth or development.
+### ***The Phenomenon of Glorification***
+Our beloved Hollywood's Stars and VIPs became these alienating, unquestionable role&life models of who we got used to accept everything, to an extent of envying them and even desiring to become like them.  This obsessive way of approaching and look up to these people is cause of spiritual blindness in the majority of the human beings.
+In the 50's and 60's the yet unknown concept of Stardom was totally blooming!  
+<br>Le 'Cinéma de niche' opened the doors to a serie of immortal Icons, but it also gave birth to a wave of pathetic clichés such as: 'Look at that guy, yes that with a cigarette, he's so cool', 'A fur makes you look like you're worth a million', and so on and so forth. Personalities and lifestyles of these people started to get all over tv, gaining more and more visibility, becoming what we now call "Icons"; their fashion style, their make up and hair, their habits (good and bad, true and false) were so influential on their audience that within no time they started to make more damage than ever.
+<br>There was such a big economical manipulation behind their public figures, there still is nowadays.
+Things like furs and cigarettes were boosted in movies and red carpets by the respective industries, destroying the little ethic values that people had and encouraging harmful habits out of something that, at a time when everything was fresh and new, looked 'sexy'.
+<br>The depreciation of values like love and respect was much helped by things like reality shows and the impending ease in dealing with a divorce. Divorces became almost a habit and on a daily basis and easier for people to take that decision. Reality shows, with their mad screaming and free violence (both phisical and psychological) created a layer of apathy and detachment and these ways of acting became ways of being, bringing these attitudes up to a daily-basis level.
+
 
 <details>
 <summary>Questions and Reflections</summary>
