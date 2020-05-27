@@ -309,9 +309,13 @@ This first is an  iterpretative transcoding which creates a link between the *fa
 
 Having found out the proportions of the pattern's grid(123x24), I reproduced it on paper using the original size(2m by 40cm). Illustrator allowed me to re-design the 123 icons and turn them into descriptive writing using a combination of the Heroes Museum's descriptions of Icons and some trigger/key-words that could spped up the recognition process. 
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1stskecth.png" width="100%">](#)
-
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1stsketch2.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1sketch.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/2.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/closeup.png">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/3.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/section_mockup.jpg" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/mockup_2.jpg" width="50%">](#)
 
 //Remember to include the url link to jump to the full media, of course!  ****!!!!!
 
