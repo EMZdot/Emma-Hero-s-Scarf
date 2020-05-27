@@ -309,24 +309,23 @@ In this transcoding I simply translated the scarf digitally. I scraped out the o
 
 I've created a responsive squared grid using html and css and replaced every square 123 single pictures repeated diagonally 24 times. 
 
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png" width="100%">](#)
-
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.07.png" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png" width="100%">](#)
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.22.39.png" width="100%">](#)
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/test.png" width="100%">](#)
 
-
-//Remember to include the url link to jump to the full media, of course!
-
 ### **Tools**
 
-InDesign, Photoshop, html/css/js.
+InDesign, Photoshop, Heroes Museum, html/css/js.
 
 ### **Results**
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/scarf.gif" width="100%">](#)
+
+***Link To Full Media here >***
 
 ## **Transcoding No. 2**
 
@@ -358,9 +357,31 @@ Descriptive writing, Illustrator, Photoshop, html/css/js.
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/mockup_2.jpg" width="50%">](#)
 
-Link To Full Media here > 
+***Link To Full Media here >*** 
 
-## **Transcoding No. 2**
+## **Transcoding No. 3**
+
+### **Updated Online Scarf**
+
+With this transcoding I am recreating the scarf in a virtual/digital version, using scraped pictures of the Icons updated (where possible) according to the current time. This transcoding is a third level of this scarf. The scarf was made in 2008, according to Mieke's 'icons' and what was popular at the time. Of course being *Icons* they didn't loose their efficiency but conceptually it made me think of how this scarf would look like if it was made nowadays, in 2020. So here I made a visually updated version of the object, according to media in 2020. 
+
+### **Methods**
+
+I again divided a webpage vertically in 123 squares by 24, in each square I place the updated image. Having the same layout as the *Online Scarf*, it's easier for the viewer to compare the differencies and similarities between the two compositions.
+
+//Pictures of Sketches
+
+//Remember to include the url link to jump to the full media, of course!
+
+### **Tools**
+
+InDesign, Photoshop, Google Images, html/css/js.
+
+### **Results**
+
+GIF OF UPDATED SCARF + Link to website 
+
+## **Transcoding No. 4**
 
 ### **Diagnostics of an Idol - Publication**
 
@@ -377,73 +398,59 @@ By adding background content to my research, both written and visual, I create a
 
 ### **Tools**
 
-InDesign, Photoshop, FlipHTML5, ...
+InDesign, Photoshop, FlipHTML5. 
 
 ### **Results**
 
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
 
-## **Transcoding No. 3**
-
-### **Updated Online Scarf**
-
-With this transcoding I am recreating the scarf in a virtual/digital version, using a scraped pictures of the Icons updated (where possible) according to the current time. This transcoding is a combination of three approaches. In this transcoding there is a representative layer, in which I use *images* as the first level, the one the audience sees first. It is interactive: by simple actions it gives the public the possibility to access the second level which is writtena and descriptive (transc.1), which links to a more contextual archive (transc.2). 
-
-### **Methods**
-
-I divide a website vertically in 123 squares by 24, in each square I place an image. To the image I link a description, which opens up another link to the spreads of my booklet. 
-
-//Pictures of Sketches
-
-//Remember to include the url link to jump to the full media, of course!
-
-### **Tools**
-
-Photoshop, Html, ...
-
-### **Results**
-
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
 
 ## **Transcoding Tools**
 
 ### **Description**
 
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
+This tool is a very simple game made by combinning of all the approaches above. In this website game there is a representative layer, in which I use *text* as the first level, the one the audience sees first, to create some curiosity in going furthere through the layers. It is interactive: by simple actions it gives the public the possibility to access the second level which is visual (transc.1), and a third option of clicking to view the third level wich is the updated version of the scarf. 
+<br>
+This webpage is one of the many links I have in my *It's a SPECTACLE of FACES* website, which includes links to all of the transcodings, so Online Scarf, Intuitive Description, Online Updated Scarf, and the contextual publication I made, it also includes an overview of the object and the project, and a final link to the Catalog of Archival Resilience. 
 
 ### **Aims**
 
-Include the main aims or intentions behind making the tool, and what it is used for.
+The reason why I wanted to combine all my transcodings into one *webpage game* is to give the audience some interaction. The viewer can take active part of this Scarf and have another type of approach with it, by diving into it somehow slowly
 
 ### **Methods**
 
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.
+I used 123 images in a responsive grid repeated by 24 in html and js, on-mouse-over and on-click options to swap the different transcodings, and fancybox to create pop-ups of images for the original object and a gallery for the publication *Diagnostics of an Idol*. 
 
 ### **Results**
 
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Screenshot%202020-05-27%20at%2018.10.45.png" width="100%">](#)
 
 ### **Source Links**
 
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.
+[Responsive Grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+[Modal Images](https://www.w3schools.com/howto/howto_css_modal_images.asp)
+[Popup Images](https://www.w3schools.com/howto/howto_js_popup.asp)
+[Popup Window](https://help.groupthought.com/article/64-pages-how-to-show-an-image-in-a-pop-up-window)
+[Responsive Lightbox](https://dimsemenov.com/plugins/magnific-popup/)
 
 # **Reflection**
-
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
+When browsing trhough the IISH, Mieke's Scarf striked me instantly. At the beginning I was doubting if I should work with an object and topic so controversial but then I thought it was a great option to dive more into this subject and define an opinion or point of view on it. I focused a lot on the research and I took this assignment with a much more interpretative approach, in the sense that I focused more on the message than the transcoding tools themselves. I wanted to rely on my own coding skills and keep any technological part simple and clear for myself so that I knew what I was doing every step of the way.
 
 # **Outcomes**
 
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/homepage.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/orihinal.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/1.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/2.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/3.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/3.1.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/3.2.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/4.png" width="100%">](#)
 
 ### **Outcome Links**
 
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
-
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).
-
-# **Conclusion**
-
-You might have a nice conclusive observation to share at the end :)
+Link to Website *It's a SPECTACLE of FACES!* > [emmabenozzi.com/Heroes...]
+**Enjoy! :)**
 
 ## **Bibliography**
 
