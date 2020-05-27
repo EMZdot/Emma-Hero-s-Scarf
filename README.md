@@ -301,6 +301,35 @@ In my project I want to build a bridge between the artwork and its context, to c
 
 ## **Transcoding No. 1**
 
+### **Online Scarf**
+
+In this transcoding I simply translated the scarf digitally. I scraped out the original pictures from Mieke's *Heroes Museum* and, by using a random order (due to the impossibility of consulting the archive to recreate the exact order) I've created an online version of the original scarf, keeping its proportions. 
+
+### **Methods**
+
+I've created a responsive squared grid using html and css and replaced every square 123 single pictures repeated diagonally 24 times. 
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.18.png" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.23.07.png" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/Screenshot%202020-05-02%20at%2019.22.39.png" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/test.png" width="100%">](#)
+
+
+//Remember to include the url link to jump to the full media, of course!
+
+### **Tools**
+
+InDesign, Photoshop, html/css/js.
+
+### **Results**
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/scarf.gif" width="100%">](#)
+
+## **Transcoding No. 2**
+
 ### **Intuitive Descriptions**
 
 This first is an  iterpretative transcoding which creates a link between the *face* and the *identity*. Keeping the original medium and size, I used *written intuitive descriptive replacements* to recreate the scarf without using the original images. It's an investigation between the power of face recognition and the open door to human immagination when it comes to sensory reading. 
@@ -310,22 +339,26 @@ This first is an  iterpretative transcoding which creates a link between the *fa
 Having found out the proportions of the pattern's grid(123x24), I reproduced it on paper using the original size(2m by 40cm). Illustrator allowed me to re-design the 123 icons and turn them into descriptive writing using a combination of the Heroes Museum's descriptions of Icons and some trigger/key-words that could spped up the recognition process. 
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1sketch.png" width="100%">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1.png" width="100%">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/2.png" width="100%">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/closeup.png">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/3.png" width="100%">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/section_mockup.jpg" width="100%">](#)
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/mockup_2.jpg" width="50%">](#)
 
-//Remember to include the url link to jump to the full media, of course!  ****!!!!!
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1.png" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/2.png" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/closeup.png">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/3.png" width="100%">](#)
 
 ### **Tools**
 
-Descriptive writing, Illustrator, Photoshop, ...
+Descriptive writing, Illustrator, Photoshop, html/css/js. 
 
 ### **Results**
 
-//Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/section_mockup.jpg" width="100%">](#)
+
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/mockup_2.jpg" width="50%">](#)
+
+Link To Full Media here > 
 
 ## **Transcoding No. 2**
 
@@ -354,7 +387,7 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 
 ### **Updated Online Scarf**
 
-With this transcoding I am recreating the scarf in a virtual/digital version, using a scraping tool to keep the pictures of the Icons updated (where possible) according to the current time. This transcoding is a combination of three approaches. In this transcoding there is a representative layer, in which I use *images* as the first level, the one the audience sees first. It is interactive: by simple actions it gives the public the possibility to access the second level which is writtena and descriptive (transc.1), which links to a more contextual archive (transc.2). 
+With this transcoding I am recreating the scarf in a virtual/digital version, using a scraped pictures of the Icons updated (where possible) according to the current time. This transcoding is a combination of three approaches. In this transcoding there is a representative layer, in which I use *images* as the first level, the one the audience sees first. It is interactive: by simple actions it gives the public the possibility to access the second level which is writtena and descriptive (transc.1), which links to a more contextual archive (transc.2). 
 
 ### **Methods**
 
