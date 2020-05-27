@@ -9,11 +9,12 @@
     1. [Transcoding No. 1](#transcoding-no-1)
     2. [Transcoding No. 2](#transcoding-no-2)
     3. [Transcoding No. 3](#transcoding-no-3)
-    4. [Transcoding Tools](#transcoding-tools)
-4. [Reflection](#reflection)
-5. [Outcomes](#outcomes)
-6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography) 
+    4. [Transcoding No. 4](#transcoding-no-4)
+    5. [Transcoding Tools](#transcoding-tools)
+5. [Reflection](#reflection)
+6. [Outcomes](#outcomes)
+7. [Conclusion](#conclusion)
+8. [Bibliography](#bibliography) 
 
 # **Artefact**
 
@@ -300,7 +301,7 @@ In my project I want to build a bridge between the artwork and its context, to c
 
 ## **Transcoding No. 1**
 
-### **Written Heroes**
+### **Intuitive Descriptions**
 
 This first is an  iterpretative transcoding which creates a link between the *face* and the *identity*. Keeping the original medium and size, I used *written intuitive descriptive replacements* to recreate the scarf without using the original images. It's an investigation between the power of face recognition and the open door to human immagination when it comes to sensory reading. 
 
@@ -308,9 +309,11 @@ This first is an  iterpretative transcoding which creates a link between the *fa
 
 Having found out the proportions of the pattern's grid(123x24), I reproduced it on paper using the original size(2m by 40cm). Illustrator allowed me to re-design the 123 icons and turn them into descriptive writing using a combination of the Heroes Museum's descriptions of Icons and some trigger/key-words that could spped up the recognition process. 
 
-//Pictures of Sketches
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1stskecth.png" width="100%">](#)
 
-//Remember to include the url link to jump to the full media, of course!
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/1stsketch2.png" width="100%">](#)
+
+//Remember to include the url link to jump to the full media, of course!  ****!!!!!
 
 ### **Tools**
 
