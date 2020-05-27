@@ -1,5 +1,5 @@
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/coverimg.jpg" width="100%">](#)
-# **Diagnostics of an Idol**
+# **It's a SPECTACLE of FACES!**
 
 ### Table of Contents
 1. [Artefact](#artefact)
