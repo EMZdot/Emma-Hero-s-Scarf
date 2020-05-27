@@ -392,9 +392,11 @@ It breaks down the concept of *idol* and the topics revolving around it such as 
 
 By adding background content to my research, both written and visual, I create a 18x28,5cm book in which the Icons from the Heroes' Scarf play a secondary role. I transform them into supportive elements of a written research, placing them as if they were sidenotes. 
 
-//Pictures of Sketches
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/spread1.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/spread2.png" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/spread3.png" width="100%">](#)
 
-//Remember to include the url link to jump to the full media, of course!
+Link to Full media here (fliphtml5 link)
 
 ### **Tools**
 
@@ -409,7 +411,7 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 
 ### **Description**
 
-This tool is a very simple game made by combinning of all the approaches above. In this website game there is a representative layer, in which I use *text* as the first level, the one the audience sees first, to create some curiosity in going furthere through the layers. It is interactive: by simple actions it gives the public the possibility to access the second level which is visual (transc.1), and a third option of clicking to view the third level wich is the updated version of the scarf. 
+This tool is a very simple game made by combining of all the approaches above. In this website game there is a representative layer, in which I use *text* as the first level, the one the audience sees first, to create some curiosity in going furthere through the layers. It is interactive: by simple actions it gives the public the possibility to access the second level which is visual (transc.1), and a third option of clicking to view the third level wich is the updated version of the scarf. 
 <br>
 This webpage is one of the many links I have in my *It's a SPECTACLE of FACES* website, which includes links to all of the transcodings, so Online Scarf, Intuitive Description, Online Updated Scarf, and the contextual publication I made, it also includes an overview of the object and the project, and a final link to the Catalog of Archival Resilience. 
 
@@ -427,11 +429,11 @@ I used 123 images in a responsive grid repeated by 24 in html and js, on-mouse-o
 
 ### **Source Links**
 
-[Responsive Grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
-[Modal Images](https://www.w3schools.com/howto/howto_css_modal_images.asp)
-[Popup Images](https://www.w3schools.com/howto/howto_js_popup.asp)
-[Popup Window](https://help.groupthought.com/article/64-pages-how-to-show-an-image-in-a-pop-up-window)
-[Responsive Lightbox](https://dimsemenov.com/plugins/magnific-popup/)
+[Responsive Grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp),
+[Modal Images](https://www.w3schools.com/howto/howto_css_modal_images.asp),
+[Popup Images](https://www.w3schools.com/howto/howto_js_popup.asp),
+[Popup Window](https://help.groupthought.com/article/64-pages-how-to-show-an-image-in-a-pop-up-window),
+[Responsive Lightbox](https://dimsemenov.com/plugins/magnific-popup/).
 
 # **Reflection**
 When browsing trhough the IISH, Mieke's Scarf striked me instantly. At the beginning I was doubting if I should work with an object and topic so controversial but then I thought it was a great option to dive more into this subject and define an opinion or point of view on it. I focused a lot on the research and I took this assignment with a much more interpretative approach, in the sense that I focused more on the message than the transcoding tools themselves. I wanted to rely on my own coding skills and keep any technological part simple and clear for myself so that I knew what I was doing every step of the way.
