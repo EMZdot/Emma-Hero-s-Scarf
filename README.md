@@ -443,7 +443,7 @@ When browsing trhough the IISH, Mieke's Scarf striked me instantly. At the begin
 ### **Outcome Links**
 
 All of the transcodings above are compiled into one website. 
-Link to ***[It's a SPECTACLE of FACES!]***(http://emmabenozzi.com/16/diagnostics.html)<br>
+Link to **[It's a SPECTACLE of FACES!]**[](http://emmabenozzi.com/16/diagnostics.html)<br>
 **Enjoy! :)**
 
 ## **Bibliography**
