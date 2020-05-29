@@ -325,7 +325,7 @@ InDesign, Photoshop, Heroes Museum, html/css/js.
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/scarf.gif" width="100%">](#)
 
-***Link To Full Media here >***
+For outcome link, see 
 
 ## **Transcoding No. 2**
 
@@ -357,8 +357,6 @@ Descriptive writing, Illustrator, Photoshop, html/css/js.
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.2%20Text%20Scarf/mockup_2.jpg" width="50%">](#)
 
-***Link To Full Media here >*** 
-
 ## **Transcoding No. 3**
 
 ### **Updated Online Scarf**
@@ -369,17 +367,13 @@ With this transcoding I am recreating the scarf in a virtual/digital version, us
 
 I again divided a webpage vertically in 123 squares by 24, in each square I place the updated image. Having the same layout as the *Online Scarf*, it's easier for the viewer to compare the differencies and similarities between the two compositions.
 
-//Pictures of Sketches
-
-//Remember to include the url link to jump to the full media, of course!
-
 ### **Tools**
 
 InDesign, Photoshop, Google Images, html/css/js.
 
 ### **Results**
 
-GIF OF UPDATED SCARF + Link to website 
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/updated.gif" width="100%">](#)
 
 ## **Transcoding No. 4**
 
@@ -395,8 +389,6 @@ By adding background content to my research, both written and visual, I create a
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/spread1.png" width="100%">](#)
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/spread2.png" width="100%">](#)
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/spread3.png" width="100%">](#)
-
-Link to Full media here (fliphtml5 link)
 
 ### **Tools**
 
@@ -451,7 +443,8 @@ When browsing trhough the IISH, Mieke's Scarf striked me instantly. At the begin
 
 ### **Outcome Links**
 
-Link to Website *It's a SPECTACLE of FACES!* > [emmabenozzi.com/Heroes...]
+All of the transcodings above are compiled into one website. 
+Link to *It's a SPECTACLE of FACES!* > [](http://emmabenozzi.com/16/diagnostics.html)
 **Enjoy! :)**
 
 ## **Bibliography**
