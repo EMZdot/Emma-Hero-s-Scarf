@@ -1,4 +1,4 @@
-[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/README-images/coverimg.jpg" width="100%">](#)
+[<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/coverimg.jpg" width="100%">](#)
 # **It's a SPECTACLE of FACES!**
 
 ### Table of Contents
