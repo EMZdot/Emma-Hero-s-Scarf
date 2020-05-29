@@ -396,8 +396,7 @@ InDesign, Photoshop, FlipHTML5.
 
 ### **Results**
 
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example/blob/master/README.md#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
-
+For final result see [It's a SPECTACLE of FACES!](http://emmabenozzi.com/16/diagnostics.html)
 
 ## **Transcoding Tools**
 
@@ -449,16 +448,16 @@ Link to [It's a SPECTACLE of FACES!](http://emmabenozzi.com/16/diagnostics.html)
 
 ## **Bibliography**
 
-**[1]**:[http://heroesmuseum.online/](http://heroesmuseum.online/)
-**[2]**:[https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions)
-**[3]**:[https://www.criticaldaily.org/index.php?project=225](https://www.criticaldaily.org/index.php?project=225)
-**[4]**:[https://miekegerritzen.com/](https://miekegerritzen.com/)
-**[5]**:[https://www.metamute.org/editorial/articles/catalogue-strategies](https://www.metamute.org/editorial/articles/catalogue-strategies)
-**[6]**:[(https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html)]((https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))
-**[7]**:[https://ceasefiremagazine.co.uk/walter-benjamin-art-aura-authenticity/](https://ceasefiremagazine.co.uk/walter-benjamin-art-aura-authenticity/)
-**[8]**:[https://dasandere.it/larte-in-walter-benjamin-tra-laura-e-lo-choc/](https://dasandere.it/larte-in-walter-benjamin-tra-laura-e-lo-choc/)
-**[9]**:[https://web.mit.edu/allanmc/www/benjamin.pdf](https://web.mit.edu/allanmc/www/benjamin.pdf)
-**[10]**:Berrebi, Sophie, *The Shape of Evidence*, 2015
-**[11]**:[https://sophieberrebi.net/The-Shape-of-Evidence](https://sophieberrebi.net/The-Shape-of-Evidence)
-**[12]**:Dikovitskaya, Margaret, *Visual Culture - The Study of the Visual after the Cultural Turn*, 2006
-**[13]**:Hlavajova, Maria; Winder, Jill; Choi, Binna; *On Knowledge Production: A Critical Reader in Contemporary Art*, 2008
+**[1]**:[http://heroesmuseum.online/](http://heroesmuseum.online/)<br>
+**[2]**:[https://anthology.rhizome.org/versions](https://anthology.rhizome.org/versions)<br>
+**[3]**:[https://www.criticaldaily.org/index.php?project=225](https://www.criticaldaily.org/index.php?project=225)<br>
+**[4]**:[https://miekegerritzen.com/](https://miekegerritzen.com/)<br>
+**[5]**:[https://www.metamute.org/editorial/articles/catalogue-strategies](https://www.metamute.org/editorial/articles/catalogue-strategies)<br>
+**[6]**:[(https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html)]((https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))<br>
+**[7]**:[https://ceasefiremagazine.co.uk/walter-benjamin-art-aura-authenticity/](https://ceasefiremagazine.co.uk/walter-benjamin-art-aura-authenticity/)<br>
+**[8]**:[https://dasandere.it/larte-in-walter-benjamin-tra-laura-e-lo-choc/](https://dasandere.it/larte-in-walter-benjamin-tra-laura-e-lo-choc/)<br>
+**[9]**:[https://web.mit.edu/allanmc/www/benjamin.pdf](https://web.mit.edu/allanmc/www/benjamin.pdf)<br>
+**[10]**:[https://sophieberrebi.net/The-Shape-of-Evidence](https://sophieberrebi.net/The-Shape-of-Evidence)<br>
+**[11]**:Berrebi, Sophie, *The Shape of Evidence*, 2015<br>
+**[12]**:Dikovitskaya, Margaret, *Visual Culture - The Study of the Visual after the Cultural Turn*, 2006<br>
+**[13]**:Hlavajova, Maria; Winder, Jill; Choi, Binna; *On Knowledge Production: A Critical Reader in Contemporary Art*, 2008<br>
