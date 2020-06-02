@@ -18,7 +18,8 @@
 
 # **Artefact**
 
-Artist *Mieke Gerritzen* designed this textile piece, called Hero's Scarf, with a pattern created by the repetition of images of all possible modern icons of public figures, such as Mickey Mouse, Nelson Mandela, Marylin Monroe, but also mass murderers like Saddam Hussein, Osama BinLaden and Hitler. The eloquence of the scarf is precisely due to its extensive choice.
+Artist Mieke Gerritzen designed this textile, called Heroes Scarf, with a pattern created by the repetition of images of all possible modern icons of public figures — fictional and non — such as Donald Duck, Nelson Mandela and Madonna, but also mass murderers like Charles Manson and Hitler.
+Gerritzen’s pattern is a colorful blur when viewed from a distance but it exposes its crowded cult of personality when viewed up close.
 
 ## **Metadata**
 **Hero's Scarf**
@@ -297,7 +298,7 @@ Mythology/Icons: Details/features that creates immediate recognition and when re
 # **Transcoding**
 
 The artwork I chose is given to the public in its purely visual matter because it needs a 'neutral' and raw response, without any explanation. It is source of controversial interpretations from its audience. <br>
-In my project I want to build a bridge between the artwork and its context, to conceive in it my own take on a subject so vague but at the same time so absolute. Therefore transcoding plays a role withing the sub-areas of the Heroes' Scarf. Through the different transcodings I bring to the surface some implicit but very hidden characteristics behind the artifact, recreating somehow an imaginary bridge between the Scarf and Mieke's intentions, but also allowing myself to add my own interpretation and re-contextualisation to the piece. 
+In my project I want to build a bridge between the artwork and its context, to conceive in it my own take on a subject so vague but at the same time so absolute. Therefore transcoding plays a role withing the sub-areas of the Heroes Scarf. Through the different transcodings I bring to the surface some implicit but very hidden characteristics behind the artifact, recreating somehow an imaginary bridge between the Scarf and Mieke's intentions, but also allowing myself to add my own interpretation and re-contextualisation to the piece. 
 
 ## **Transcoding No. 1**
 
@@ -324,8 +325,6 @@ InDesign, Photoshop, Heroes Museum, html/css/js.
 ### **Results**
 
 [<img src="https://github.com/EMZdot/Emma-Hero-s-Scarf/blob/master/Transc.1%20Website/scarf.gif" width="100%">](#)
-
-For outcome link, see 
 
 ## **Transcoding No. 2**
 
@@ -396,7 +395,7 @@ InDesign, Photoshop, FlipHTML5.
 
 ### **Results**
 
-For final result see [It's a SPECTACLE of FACES!](http://emmabenozzi.com/16/diagnostics.html)
+For the whole publication see this flipping book link: [](https://online.fliphtml5.com/hknwt/elpv/)
 
 ## **Transcoding Tools**
 
@@ -443,7 +442,7 @@ When browsing trhough the IISH, Mieke's Scarf striked me instantly. At the begin
 ### **Outcome Links**
 
 All of the transcodings above are compiled into one website. 
-Link to [It's a SPECTACLE of FACES!](http://emmabenozzi.com/16/diagnostics.html)<br>
+Link to **[It's a SPECTACLE of FACES!](http://emmabenozzi.com/16/diagnostics.html)**<br>
 **Enjoy! :)**
 
 ## **Bibliography**
