@@ -452,7 +452,7 @@ Link to **[It's a SPECTACLE of FACES!](http://emmabenozzi.com/16/diagnostics.htm
 **[3]**:[https://www.criticaldaily.org/index.php?project=225](https://www.criticaldaily.org/index.php?project=225)<br>
 **[4]**:[https://miekegerritzen.com/](https://miekegerritzen.com/)<br>
 **[5]**:[https://www.metamute.org/editorial/articles/catalogue-strategies](https://www.metamute.org/editorial/articles/catalogue-strategies)<br>
-**[6]**:[(https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html)]((https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html))<br>
+**[6]**:[https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html)<br>
 **[7]**:[https://ceasefiremagazine.co.uk/walter-benjamin-art-aura-authenticity/](https://ceasefiremagazine.co.uk/walter-benjamin-art-aura-authenticity/)<br>
 **[8]**:[https://dasandere.it/larte-in-walter-benjamin-tra-laura-e-lo-choc/](https://dasandere.it/larte-in-walter-benjamin-tra-laura-e-lo-choc/)<br>
 **[9]**:[https://web.mit.edu/allanmc/www/benjamin.pdf](https://web.mit.edu/allanmc/www/benjamin.pdf)<br>
