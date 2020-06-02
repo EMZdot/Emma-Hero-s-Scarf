@@ -395,7 +395,7 @@ InDesign, Photoshop, FlipHTML5.
 
 ### **Results**
 
-For the whole publication see this flipping book link: [](https://online.fliphtml5.com/hknwt/elpv/)
+For the whole publication see this flipping book link: [https://online.fliphtml5.com/hknwt/elpv/](https://online.fliphtml5.com/hknwt/elpv/)
 
 ## **Transcoding Tools**
 
